@@ -14,7 +14,7 @@
 <section>
     <h2 align="left">About me 🙋‍♂️</h2>
 <p>
-    Graduating in Análise e Desenvolvimento de Sistemas at IFRN in Natal-RN, I started my journey in technology in 2015, going through desktop, backend, frontend and fullstack development. I am currently focused on frontend development and user experience using technologies such as ReactJS/Native, Typescript, NodeJS and more.
+    Graduated in Análise e Desenvolvimento de Sistemas at IFRN in Natal-RN, I started my journey in technology in 2015, going through desktop, backend, frontend and fullstack development. I am currently focused on frontend development and user experience using technologies such as ReactJS/Native, Typescript, NodeJS and more.
 </p>
 
 - 👨‍💻 I’m currently working with ReactJS, React Native and NodeJS;
