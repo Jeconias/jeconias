@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeconias Santos</h1>
-<h3 align="center">Some people call me Jack and I am a passionate full-stack developer from Brazil.</h3>
+<h3 align="center">Some people call me Jack and I am a passionate backend developer from Brazil.</h3>
 
 <section>
 <p align="center">
@@ -14,10 +14,10 @@
 <section>
     <h2 align="left">About me 🙋‍♂️</h2>
 <p>
-    Graduated in Análise e Desenvolvimento de Sistemas at IFRN in Natal-RN, I started my journey in technology in 2015, going through desktop, backend, frontend and fullstack development. I am currently focused on frontend development and user experience using technologies such as ReactJS/Native, Typescript, NodeJS and more.
+    Graduated in Análise e Desenvolvimento de Sistemas at IFRN in Natal-RN, I started my journey in technology in 2015, going through desktop, backend, frontend and fullstack development. I am currently focused on backend development using technologies such as NodeJS using NestJS/Express with Typescript, Go and more.
 </p>
 
-- 👨‍💻 I’m currently working with ReactJS, React Native and NodeJS;
+- 👨‍💻 I’m currently working with NestJS, Go and sometimes I help the Frontend team 💄;
 - 💬 Ask me about anything and let's get a coffee;
 - ⚡ Fun fact: I like to create challenges for myself to learn more.
 
