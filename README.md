@@ -3,26 +3,27 @@
 
 <section>
 <p align="center">
-    <a href="https://jeconias.vitrinne.site" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Homepage-444444?style=for-the-badge&logo=homepage&logoColor=white" alt="Homepage"/>
-    </a>
     <a href="https://www.linkedin.com/in/jeconias" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://t.me/jeconias" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
+    <a href="https://snaptag.vitrinne.site" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/SnapTag-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHJ4PSI4IiBmaWxsPSIjNjM2NmYxIi8+CiAgPHRleHQgeD0iMjBweCIgeT0iMjBweCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIGZvbnQtc2l6ZT0iMjgiIGZpbGw9IiNmZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiPlM8L3RleHQ+Cjwvc3ZnPg==" alt="Homepage"/>
+    </a>
 </p>
 <section>
 
 <section>
     <h2 align="left">About me 🙋‍♂️</h2>
+
 <p>
-    Graduated in Análise e Desenvolvimento de Sistemas at IFRN in Natal-RN, I started my journey in technology in 2015, going through desktop, backend, frontend and fullstack development. I am currently focused on backend development using technologies such as NodeJS using NestJS/Express with Typescript, Go and more.
+    I graduated in Análise e Desenvolvimento de Sistemas at IFRN in Natal-RN. I started my journey in technology in 2015, working with desktop, backend, frontend, and fullstack development. I am currently focused on backend development using technologies such as NodeJS (with NestJS/Express and TypeScript), Go, and more.
 </p>
 
-- 👨‍💻 I’m currently working with Kotlin, NestJS and sometimes I help the Frontend team 💄;
-- 💬 Ask me about anything and let's get a coffee;
+- 👨‍💻 I’m currently working with Kotlin and NestJS, and sometimes I help the Frontend team 💄;
+- 💬 Feel free to ask me anything, and let's grab a coffee;
 - ⚡ Fun fact: I like to create challenges for myself to learn more.
 
 </section>
